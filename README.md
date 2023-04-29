@@ -18,4 +18,3 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 - [Pterodactyl](https://pterodactyl.io) - Panel & Wings
 - [parkervcp](https://github.com/parkervcp) - Most of the eggs & their contributors!
-- [Finnie2006](https://github.com/finnie2006) - Nginx website hosting.
