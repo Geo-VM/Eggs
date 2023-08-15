@@ -18,3 +18,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 - [Pterodactyl](https://pterodactyl.io) - Panel & Wings
 - [parkervcp](https://github.com/parkervcp) - Most of the eggs & their contributors!
+
+## Star Graph
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Geo-VM/Eggs&type=Date)]
